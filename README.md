@@ -1,31 +1,14 @@
 <H1>Welcome to portfolio
 <h2> INTRODUCTION<BR>
 <H3>Myself Vivek Anand from BIRLA INSTITUTE OF TECHNOLOGY, MESRA. I worked with plunes.com which provide an online platform of doctors and lawyers. I worked here as a campus ambassador and as social marketing head of campus. Through this, I developed a good knowledge of social media marketing and working in analytical software. I regularly update myself with new technologies.
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  
+  <H2>EDUCATION<BR>
+  <H3>1.B.Pharm from BIT MESRA           7.16 CGPA
+  <H3>2.Higher secondary from 
+        SRI CHAITANYA VIDYA NIKETAN      86.6
+  <h3>3.Metriculation from 
+    MANAN VIDYA                          8.8 CGPA
+  
 
 ### Jekyll Themes
 
