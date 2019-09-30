@@ -1,6 +1,6 @@
-## Welcome to portfolio
-<h1> INTRODUCTION
-Myself Vivek Anand from BIRLA INSTITUTE OF TECHNOLOGY, MESRA. I worked with plunes.com which provide an online platform of doctors and lawyers. I worked here as a campus ambassador and as social marketing head of campus. Through this, I developed a good knowledge of social media marketing and working in analytical software. I regularly update myself with new technologies.
+<H1>Welcome to portfolio
+<h2> INTRODUCTION<BR>
+<H3>Myself Vivek Anand from BIRLA INSTITUTE OF TECHNOLOGY, MESRA. I worked with plunes.com which provide an online platform of doctors and lawyers. I worked here as a campus ambassador and as social marketing head of campus. Through this, I developed a good knowledge of social media marketing and working in analytical software. I regularly update myself with new technologies.
 
 
 ### Markdown
