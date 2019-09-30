@@ -8,12 +8,17 @@
         SRI CHAITANYA VIDYA NIKETAN      86.6
   <h3>3.Metriculation from 
     MANAN VIDYA                          8.8 CGPA
-  
+    
+    
+<H2>KEY SKILLS <BR>
+  <H3>ADOBE XD
+  <H3>WEB DEVELOPMENT
+  <H3>PHOTOSHOP
+<H2>PROJECT
+  <H3> DEVELOPMENT OF BIODEGRADABLE PACKAGING MATERIAL
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tuckru/portpolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<H2>CONTACT
+  <H3>vkanand1301@gmail.com
+  <h3>MOBILE -7079084061
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
