@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to portfolio
+<h1> INTRODUCTION
+Myself Vivek Anand from BIRLA INSTITUTE OF TECHNOLOGY, MESRA. I worked with plunes.com which provide an online platform of doctors and lawyers. I worked here as a campus ambassador and as social marketing head of campus. Through this, I developed a good knowledge of social media marketing and working in analytical software. I regularly update myself with new technologies.
 
-You can use the [editor on GitHub](https://github.com/tuckru/portpolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
